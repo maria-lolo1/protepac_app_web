@@ -1,6 +1,6 @@
 {
-    "name": "Protepac",
-    "short_name": "Protepac",
+    "name": "protepac",
+    "short_name": "protepac",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
