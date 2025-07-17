@@ -1,11 +1,11 @@
 {
-    "name": "protepac",
-    "short_name": "protepac",
+    "name": "Protepac App",
+    "short_name": "Protepac App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Protepac",
+    "description": "Protepac App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
